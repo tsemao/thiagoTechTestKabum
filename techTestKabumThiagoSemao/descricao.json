@@ -1,0 +1,463 @@
+[{
+    "title": "1 - COMBO",
+    "wallpaper": "ComboBigFamily",
+    "products": [{
+        "picture": "ComboBigFamily",
+        "name": "COMBO BIG FAMILY",
+        "price": "R$ 130,00",
+        "descriptItems": "Dois Malbec Bancon, Dois Malbec Kids, Duas Fritas, Refrigerante de 1,5L ou Suco Prats 900ml (Laranja ou Uva)."
+    },
+        {
+            "picture": "ComboFamily",
+            "name": "COMBO FAMILY",
+            "price": "R$ 110,00",
+            "descriptItems": "Dois Malbec Bancon, Um Malbec Kids, Duas Fritas Malbec, Refrigerante de 1,5L ou Suco Prats 900ml (Laranja ou Uva)."
+        },
+        {
+            "picture": "LazerBaconCombo",
+            "name": "LAZER BACON COMBO",
+            "price": "R$ 48,00",
+            "descriptItems": "1 Lazer Bacon: Pão Brioche, hamburger de 180g suculento, bacon sequinho, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. Uma fritas Malbec crocante e um refrigerante lata de 350ml ou suco Prats de 330ml."
+        },
+        {
+            "picture": "LazerBaconDoubleCombo",
+            "name": "LAZER BACON DOUBLE COMBO",
+            "price": "R$ 66,00",
+            "descriptItems": "1 Lazer Bacon Double: Pão Brioche, dois hamburgeres de 180g suculento, bacon sequinho, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. Uma fritas Malbec crocante e um refrigerante lata de 350ml ou suco Prats de 330ml."
+        },
+        {
+            "picture": "LazerCombo",
+            "name": "LAZER COMBO",
+            "price": "R$ 46,00",
+            "descriptItems": "1 Lazer. Pão brioche, hamburguer de 180g com suculência, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "LazerDoubleCombo",
+            "name": "LAZER DOUBLE COMBO",
+            "price": "R$ 56,00",
+            "descriptItems": "1 Lazer Bacon Double. Pão brioche, 2 hamburgueres de 180g com suculência, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+            
+        },
+        {
+            "picture": "LazerExecutiveCombo",
+            "name": "LAZER EXECUTIVE COMBO",
+            "price": "R$ 44,00",
+            "descriptItems": "SEM DESCRIÇÃO"
+            
+        },
+        {
+            "picture": "LazerKidsCombo",
+            "name": "LAZER KIDS COMBO",
+            "price": "R$ 40,00",
+            "descriptItems": " Lazer Kids. Pão brioche, hamburguer de 130g, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+            
+        },
+        {
+            "picture": "LazerNatureCombo",
+            "name": "LAZER NATURE COMBO",
+            "price": "R$ 32,00",
+            "descriptItems": "SEM DESCRIÇÃO"
+            
+        },
+        {
+            "picture": "MalbecBaconCombo",
+            "name": "MALBEC BACON COMBO",
+            "price": "R$ 45,00",
+            "descriptItems": "1 Malbec Bacon. Pão crocante assado na hora, hamburguer de 180g com suculência, bacon sequinho, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "MalbecBaconDoubleCombo",
+            "name": "MALBEC BACON DOUBLE COMBO",
+            "price": "R$ 63,00",
+            "descriptItems": "1 Malbec Bacon Double. Pão crocante assado na hora, 2 hamburgueres de 180g com suculência, bacon sequinho, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "MalbecCombo",
+            "name": "MALBEC COMBO",
+            "price": "R$ 43,00",
+            "descriptItems": "1 Malbec. Pão crocante assado na hora, hamburguer de 180g com suculência, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "MalbecDoubleCombo",
+            "name": "MALBEC DOUBLE COMBO",
+            "price": "R$ 53,00",
+            "descriptItems": "1 Malbec Double. Pão crocante assado na hora, 2 hamburgueres de 180g com suculência, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "MalbecExecutiveCombo",
+            "name": "MALBEC EXECUTIVE COMBO",
+            "price": "R$ 41,00",
+            "descriptItems": "1 Malbec Executive. Pão crocante assado na hora, hamburguer de 130g com suculência, alface e tomate frescos, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante mais 1 refrigerante lata de 350ml ou suco Prats 330ml."
+        },
+        {
+            "picture": "MalbecKidsChickenCombo",
+            "name": "MALBEC KIDS CHICKEN COMBO",
+            "price": "R$ 37,00",
+            "descriptItems": "1 Malbec Kids Chicken. Pão crocante assado na hora, filé de peito de frango 130g, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante e 1 refrigerante lata 350ml ou suco Prats."
+        },
+        {
+            "picture": "MalbecKidsCombo",
+            "name": "MALBEC KIDS COMBO",
+            "price": "R$ 37,00",
+            "descriptItems": "1 Malbec Kids. Pão crocante assado na hora, hamburguer de 130g, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante e 1 refrigerante lata 350ml ou suco Prats."
+        },
+        {
+            "picture": "MalbecNatureCombo",
+            "name": "MALBEC NATURE COMBO",
+            "price": "R$ 29,00",
+            "descriptItems": "1 Malbec nature. Pão crocante assado na hora, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec. 1 fritas Malbec crocante e 1 refrigerante em lata 350ml."
+        }
+        
+    ]
+},
+    {
+        "title": "2 - CHEESEBURGUER",
+        "wallpaper": "LazerDouble",
+        "products": [{
+            "picture": "Lazer",
+            "name": "LAZER",
+            "price": "R$ 33,00",
+            "descriptItems": "Pão brioche, hamburguer de 180g com suculência, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+        },
+            {
+                "picture": "LazerBacon",
+                "name": "LAZER BACON",
+                "price": "R$ 35,00",
+                "descriptItems": "Pão brioche, hamburguer de 180g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "LazerBaconDouble",
+                "name": "LAZER BACON DOUBLE",
+                "price": "R$ 53,00",
+                "descriptItems": "Pão brioche, 2 hamburgueres de 180g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "LazerChicken",
+                "name": "LAZER CHICKEN",
+                "price": "R$ 28,00",
+                "descriptItems": "Pão brioche, peito de frango 130g, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "LazerChickenBacon",
+                "name": "LAZER CHICKEN BACON",
+                "price": "R$ 30,00",
+                "descriptItems": "Pão brioche, peito de frango 130g, bacon artesanal sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "LazerDouble",
+                "name": "LAZER DOUBLE",
+                "price": "R$ 43,00",
+                "descriptItems": "Pão brioche, 2 hamburgueres de 180g com suculência, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "LazerExecutive",
+                "name": "LAZER EXECUTIVE",
+                "price": "R$ 31,00",
+                "descriptItems": "SEM DESCRIÇÃO DO PRODUTO."
+            },
+            {
+                "picture": "Malbec",
+                "name": "MALBEC",
+                "price": "R$ 30,00",
+                "descriptItems": "Pão crocante, hamburguer de 180g com suculência, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "MalbecBacon",
+                "name": "MALBEC BACON",
+                "price": "R$ 32,00",
+                "descriptItems": "Pão crocante assado na hora, hamburguer de 180g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "MalbecBaconDouble",
+                "name": "MALBEC BACON DOUBLE",
+                "price": "R$ 50,00",
+                "descriptItems": "Pão crocante assado na hora, 2 hamburgueres de 180g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "MalbecDouble",
+                "name": "MALBEC DOUBLE",
+                "price": "R$ 40,00",
+                "descriptItems": "Pão crocante assado na hora, 2 hamburgueres de 180g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            },
+            {
+                "picture": "MalbecExecutive",
+                "name": "MALBEC EXECUTIVE",
+                "price": "R$ 28,00",
+                "descriptItems": "Pão crocante assado na hora, hamburguer de 130g com suculência, bacon sequinho, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho MALBEC."
+            }
+        ]
+    },
+    {
+        "title": "3 - KIDS",
+        "wallpaper": "LazerKids",
+        "products": [{
+            "picture": "Lazer Kids",
+            "name": "LAZER KIDS",
+            "price": "R$ 27,00",
+            "descriptItems": "Pão brioche, hambúrguer de 130g com suculência, queijo tipo cheddar e o maravilhoso molho Malbec."
+        },
+            {
+                "picture": "LazerKidsChicken",
+                "name": "LAZER KIDS CHICKEN",
+                "price": "R$ 27,00",
+                "descriptItems": "Pão brioche, peito de frango 130g, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "MalbecKids",
+                "name": "MALBEC KIDS",
+                "price": "R$ 24,00",
+                "descriptItems": "Pão crocante assado na hora, hambúrguer de 130g com suculência, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "MalbecKidsChicken",
+                "name": "MALBEC KIDS CHICKEN",
+                "price": "R$ 24,00",
+                "descriptItems": "Pão crocante assado na hora, peito de frango 130g, queijo tipo cheddar e o maravilhoso molho Malbec."
+            }
+            
+        ]
+    },
+    
+    {
+        "title": "4 - LIGHT",
+        "wallpaper": "LazerKids",
+        "products": [{
+            "picture": "ComboLazerChickenBacon",
+            "name": "COMBO LAZER CHICKEN BACON",
+            "price": "R$ 43,00",
+            "descriptItems": "1 Lazer Chicken Bacon + 1 fritas Malbec crocante + 1 refrigerantelata de 350ml ou suco Prats 330ml."
+        },
+            {
+                "picture": "LazerChickenBacon",
+                "name": "LAZER CHICKEN BACON",
+                "price": "R$ 30,00",
+                "descriptItems": "Pão brioche, peito de frango 130g, bacon artesanal, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "LazerNature",
+                "name": "LAZER NATURE",
+                "price": "R$ 19,00",
+                "descriptItems": "Pão brioche, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "MalbecChicken",
+                "name": "MALBEC CHICKEN",
+                "price": "R$ 25,00",
+                "descriptItems": "Pão brioche, peito de frango 130g, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "MalbecChickenBacon",
+                "name": "MALBEC CHICKEN BACON",
+                "price": "R$ 27,00",
+                "descriptItems": "Pão crocante, peito de frango 130g, bacon artesanal, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec."
+            },
+            {
+                "picture": "MalbecNature",
+                "name": "MALBEC NATURE",
+                "price": "R$ 16,00",
+                "descriptItems": "Pão crocante assado na hora, alface e tomate frescos e selecionados, deliciosa cebola de churrasco, queijo tipo cheddar e o maravilhoso molho Malbec."
+            }
+        ]
+    },
+    
+    {
+        "title": "5 - EXTRAS",
+        "wallpaper": "Extras",
+        "products": [{
+            "picture": "BaconExtra",
+            "name": "BACON EXTRA",
+            "price": "R$ 6,00",
+            "descriptItems": "Adicional de 3 fatias de bacon sequinho."
+        },
+            {
+                "picture": "CheddarExtra",
+                "name": "CHEDDAR EXTRA",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "Fichas",
+                "name": "FICHAS",
+                "price": "R$ 2,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "PaoCrocanteExtra",
+                "name": "PÃO CROCANTE EXTRA",
+                "price": "R$ 2,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            }
+        ]
+    },
+    
+    {
+        "title": "6 - ACOMPANHAMENTOS",
+        "wallpaper": "Acompanhamento",
+        "products": [{
+            "picture": "FritasChipsArtesanalMalbec",
+            "name": "FRITAS CHIPS ARTESANAL MALBEC",
+            "price": "R$ 9,00",
+            "descriptItems": "Batatas fritas chips feitas artesanalmente no óleo de algodão."
+        },
+            {
+                "picture": "FritasMalbec",
+                "name": "FRITAS MALBEC",
+                "price": "R$ 9,00",
+                "descriptItems": "Porção de fritas Malbec crocante."
+            },
+            {
+                "picture": "MolhoMalbecExtra",
+                "name": "MOLHO MALBEC EXTRA",
+                "price": "R$ 3,00",
+                "descriptItems": "Porção do maravilhoso molho Malbec."
+            }
+        ]
+    },
+    
+    
+    {
+        "title": "7 - BEBIDAS",
+        "wallpaper": "Acompanhamento",
+        "products": [{
+            "picture": "AguaMineralComGas",
+            "name": "ÁGUA MINERAL COM GÁS",
+            "price": "R$ 4,00",
+            "descriptItems": "Adicional de 3 fatias de bacon sequinho."
+        },
+            {
+                "picture": "AguaMineralSemGas",
+                "name": "ÁGUA MINERAL SEM GÁS",
+                "price": "R$ 3,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "AguaTonica",
+                "name": "ÁGUA TÔNICA",
+                "price": "R$ 6,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "Budweiser",
+                "name": "BUDWEISER",
+                "price": "R$ 8,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "CocaCola15L",
+                "name": "COCA COLA 1,5L",
+                "price": "R$ 11,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "CocaColaLata",
+                "name": "COCA COLA LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "CocaColaZeroLata",
+                "name": "COCA COLA ZERO LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "CoronaExtra",
+                "name": "CORONA EXTRA",
+                "price": "R$ 9,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "FantaLata",
+                "name": "FANTA LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "Guarana15L",
+                "name": "GUARANÁ 1,5L",
+                "price": "R$ 11,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "GuaranaLata",
+                "name": "GUARANÁ LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "GuaranaZeroLata",
+                "name": "GUARANÁ ZERO LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "H2OLimoneto",
+                "name": "H2O LIMONETO",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "Heineken",
+                "name": "HEINEKEN",
+                "price": "R$ 9,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "HeinekenZero",
+                "name": "HEINEKEN ZERO",
+                "price": "R$ 9,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "Pepsi",
+                "name": "PEPSI",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "RedBull",
+                "name": "RED BULL",
+                "price": "R$ 11,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "SpriteLata",
+                "name": "SPRITE LATA",
+                "price": "R$ 6,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "StellaArtois",
+                "name": "STELLA ARTOIS",
+                "price": "R$ 9,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            },
+            {
+                "picture": "SucoGoiabaPrats330ML",
+                "name": "SUCO DE GOIABA PRATS 330 ML",
+                "price": "R$ 7,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "SucoLaranjaPrats330ML",
+                "name": "SUCO DE LARANJA PRATS 330 ML",
+                "price": "R$ 7,00",
+                "descriptItems": "Adicional de pão crocante assado na hora."
+            },
+            {
+                "picture": "SucoLaranjaPrats900ML",
+                "name": "SUCO DE LARANJA PRATS 900 ML",
+                "price": "R$ 13,00",
+                "descriptItems": "Adicional de 2 fatias de queijo tipo cheddar."
+            },
+            {
+                "picture": "SucoUvaPrats900ML",
+                "name": "SUCO DE UVA PRATS 900 ML",
+                "price": "R$ 13,00",
+                "descriptItems": "Descrição dos ingredientes que compõem o produto."
+            }
+        ]
+    }]
+ 
+ 
+ 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "308C769B-F363-4B44-8A0D-40A64F2DAAE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3AA314F-0EBB-4BC6-B40D-EC25D73225CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "techTestKabumThiagoSemao/Controller/ProductTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ProductTableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E58AC6E-716D-4A76-A10F-3407B0ACAA9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "techTestKabumThiagoSemao/Controller/ProductTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "prepare(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E58AC6E-716D-4A76-A10F-3407B0ACAA9D - a41b1b29f7fda76b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "techTestKabumThiagoSemao.ProductTableViewCell.prepare(with: techTestKabumThiagoSemao.Categoria) -&gt; ()"
+                  moduleName = "techTestKabumThiagoSemao"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagosemaopires/Documents/Projetos%20iOS2022/techTestKabumThiagoSemao/techTestKabumThiagoSemao/Controller/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "8E58AC6E-716D-4A76-A10F-3407B0ACAA9D - a41b1b29f7fda76b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "techTestKabumThiagoSemao.ProductTableViewCell.prepare(with: techTestKabumThiagoSemao.Categoria) -&gt; ()"
+                  moduleName = "techTestKabumThiagoSemao"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagosemaopires/Documents/Projetos%20iOS2022/techTestKabumThiagoSemao/techTestKabumThiagoSemao/Controller/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0B69232-186B-4E73-B8B1-247E05AB653D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "techTestKabumThiagoSemao/Controller/ProductTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "loadItemList(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
