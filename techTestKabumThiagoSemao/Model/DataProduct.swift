@@ -23,10 +23,7 @@ struct Product: Codable {
     let img: String?
     let price: String?
     let specialPrice: String?
-    
-    //let img: String
-    //let preco: Int?
-    //let preco_desconto: Int?
+
     
     enum CodingKeys: String, CodingKey {
         case name = "nome"

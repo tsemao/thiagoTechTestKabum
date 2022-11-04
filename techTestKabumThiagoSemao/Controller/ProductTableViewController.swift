@@ -12,6 +12,7 @@ import SwiftUI
 
 class ProductTableViewController: UITableViewController {
 
+
     var products: [Product] = []
     var currentPage = 1
     var inLoading: Bool = false
@@ -22,8 +23,6 @@ class ProductTableViewController: UITableViewController {
         loadItemList(page: currentPage)
         loadingActivity()
     }
-    
-    
     
     
     ///////////////////////    LOADING INDICATOR    ////////////////////////////////
@@ -46,8 +45,6 @@ class ProductTableViewController: UITableViewController {
         })
     }
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-    
-    
     
     
     func loadItemList(page: Int = 1) {
@@ -88,6 +85,9 @@ class ProductTableViewController: UITableViewController {
         dataTask.resume()
     }
     
+    
+    
+    
 
     // MARK: - Table view data source
 
@@ -111,21 +111,17 @@ class ProductTableViewController: UITableViewController {
         if indexPath.section == 0 {
             let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! ProductTableViewCell
             cell.prepare(with: products[indexPath.row])
-
-            //cell.ivProduct.layer.cornerRadius = 20
-            //cell.ivProduct.clipsToBounds = true
-            //cell.ivProduct.layer.shadowColor = UIColor.lightGray.cgColor
-            //cell.ivProduct.layer.shadowRadius = 6.0
-            //cell.ivProduct.layer.shadowOpacity = 0.5
-            //cell.ivProduct.layer.shadowOffset = CGSize(width: 5, height: 5)
-            //cell.ivProduct.layer.shadowPath = nil
-            //cell.ivProduct.layer.borderColor = .init(gray: 3, alpha: 5)
             
-            cell.backgroundColor = UIColor.lightGray
-            cell.layer.borderColor = UIColor.lightGray.cgColor
-            cell.layer.borderWidth = 5
-            cell.layer.cornerRadius = 12
-            cell.clipsToBounds = true
+            
+            cell.layer.cornerRadius = 4
+            cell.clipsToBounds = false
+            cell.layer.masksToBounds = false
+            cell.layer.shadowRadius = 2
+            cell.layer.shadowOpacity = 0.6
+            cell.layer.shadowOffset = CGSize(width: 0, height: 2)
+            cell.layer.shadowColor = UIColor.black.cgColor
+            
+
             return cell
         } else {
             let cell = tableView.dequeueReusableCell(withIdentifier: "loadingCell", for: indexPath) as! LoadingCell
@@ -136,6 +132,8 @@ class ProductTableViewController: UITableViewController {
         
         
     }
+    
+    
     
     
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
@@ -161,6 +159,8 @@ class ProductTableViewController: UITableViewController {
     
         
 }
+
+
 
    
 
